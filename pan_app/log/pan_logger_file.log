@@ -1,0 +1,1 @@
+2024-04-09 16:06:44,060 ERROR: An error occured: JSON parse error - Expecting value: line 2 column 1 (char 1) on line 57 in funtion ext_data_from_pan in module views
